@@ -1,0 +1,11 @@
+## Index of source code examples:
+
+\Auto Redact Text From PDF By Keywords
+\Black out PII Data From PDF
+\Check For Sensitive Data and PII in PDF
+\PDF Data Remover Tool
+\Remove PII Data From PDF
+\Remove Sensitive Data From Region
+\Remove Sensitive Data From Scanned Document
+\Remove Sensitive Text Using Regex Expressions
+\PDF Data Remover Tool\C#
