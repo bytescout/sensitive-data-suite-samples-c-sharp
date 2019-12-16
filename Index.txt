@@ -5,6 +5,7 @@
 \Check For Sensitive Data and PII in PDF
 \PDF Data Remover Tool
 \Remove PII Data From PDF
+\Remove Sensitive Data From Image
 \Remove Sensitive Data From Region
 \Remove Sensitive Data From Scanned Document
 \Remove Sensitive Text Using Regex Expressions
